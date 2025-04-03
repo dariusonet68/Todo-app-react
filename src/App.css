@@ -1,0 +1,11 @@
+.app-container {
+  background-color: #f3f3fb;
+  min-height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.app-content {
+  justify-content: center;
+  display: flex;
+}

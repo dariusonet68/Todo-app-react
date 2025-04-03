@@ -1,0 +1,35 @@
+.badge {
+  padding: 5px 10px;
+  border-radius: 12px;
+}
+
+.badge p {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  color: #808080;
+}
+
+.black {
+  background-color: #f2f2f2;
+  color: #16171d;
+}
+
+.blue {
+  background-color: #f2f2f2;
+  color: #3754bd;
+}
+
+.orange {
+  background-color: #f2f2f2;
+  color: #df9a00;
+}
+
+.green {
+  background-color: #f2f2f2;
+  color: #00c271;
+}

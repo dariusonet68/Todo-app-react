@@ -1,0 +1,19 @@
+.control-panel-container {
+  padding: 20px 0 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100vh;
+}
+
+.view-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
